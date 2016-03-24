@@ -2,6 +2,8 @@
 
 A Clojure library designed to left-pad strings...
 
+[![Circle CI](https://circleci.com/gh/stianeikeland/leftpad-clj/tree/master.svg?style=svg)](https://circleci.com/gh/stianeikeland/leftpad-clj/tree/master)
+
 ## Usage
 
 ``` clj
